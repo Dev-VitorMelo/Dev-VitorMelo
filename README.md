@@ -1,8 +1,10 @@
-## Olá! Eu sou o Vitor Melo
+Olá! Eu sou o Vitor Melo
 
 - 🔭 Hoje atuo como Desenvolvedor Full Stack
 - 🌱 Estudando Cyber Security
 - 😄 Pronomes: ele/dele
+
+##
 
 <div align="center">
   <a href="https://github.com/Dev-VitorMelo">
@@ -18,7 +20,7 @@
    <img align="center" alt="Melo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Melo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Melo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Melo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+   <img align="center" alt="Melo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
 ##
