@@ -1,10 +1,6 @@
-Olá! Eu sou o Vitor Melo
-
-- 🔭 Hoje atuo como Desenvolvedor Full Stack
-- 🌱 Estudando Cyber Security
-- 😄 Pronomes: ele/dele
-
-##
+## Oie, eu sou o Vitor Melo! 😊 
+- 🧑🏼‍💻 Desenvolvedor Full Stack 
+- 🤓 Estudante de Cyber Security
 
 <div align="center">
   <a href="https://github.com/Dev-VitorMelo">
