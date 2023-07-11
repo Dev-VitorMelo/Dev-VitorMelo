@@ -1,6 +1,6 @@
-## Oie, eu sou o Vitor Melo! 😊 
-- 🧑🏼‍💻 Desenvolvedor Full Stack 
-- 🤓 Estudante de Cyber Security
+## Hi, I'm Vitor Melo! 😊 
+- 🧑🏼‍💻 RPA Developer and Software Engineer
+- UiPath | Automation Anywhere | Power Automate | Python | C# | Java | VBA | VBScript
 
 <div align="center">
   <a href="https://github.com/Dev-VitorMelo">
