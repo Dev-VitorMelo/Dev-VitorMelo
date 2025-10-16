@@ -1,6 +1,6 @@
 ## Hi, I'm Vitor Evangelista! 😊 
 - 🧑🏼‍💻 Data Scientist and Data Analyst
-- UiPath | Automation Anywhere | Power Automate | Python | C# | Java | VBA | VBScript
+- Python | Java | 
 
 <div align="center">
   <a href="https://github.com/Dev-VitorMelo">
