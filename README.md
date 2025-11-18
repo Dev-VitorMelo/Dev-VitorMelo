@@ -1,6 +1,6 @@
 ## Hi, I'm Vitor Evangelista! 😊 
 - 🧑🏼‍💻 Data Scientist and Data Analyst
-- Python | Java | 
+- Python | Java | JavaScript
 
 <div align="center">
   <a href="https://github.com/Dev-VitorMelo">
